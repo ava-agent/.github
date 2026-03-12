@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/ava-agent/.github/main/profile/ava-logo.png" width="160" alt="AVA Agent Logo" />
+
 # AVA Agent
 
 **AI-Native Agent Studio · One-Person Company**
