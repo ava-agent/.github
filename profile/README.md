@@ -74,7 +74,7 @@ Every agent ships with a live demo.
 | [3D Agent](https://github.com/ava-agent/3d-agent) | One-stop 3D Model Generation Assistant | [Demo](https://3d.rxcloud.group/) |
 | [Promotion Agent](https://github.com/ava-agent/promotion-agent) | Social Media Cross-posting Guide, 11+ Platforms | [Website](https://ava-agent.github.io/promotion-agent/) |
 | [PUA CLI](https://github.com/ava-agent/pua-cli) | Fun AI CLI Tool | [Demo](https://pua.rxcloud.group) |
-| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI Thinking Coach | [Demo](https://sb-smart-brain.vercel.app) |
+| [S.B.](https://github.com/ava-agent/S.B.) | Smart Brain — AI Thinking Coach | [Demo](https://sb.rxcloud.group) |
 
 ---
 
