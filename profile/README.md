@@ -8,7 +8,7 @@
 
 **AI 原生 Agent 工作室 · 一人公司 · 为万物构建 AI Agent**
 
-[![AI Tools](https://img.shields.io/badge/AI_Tools-Selection_Guide-blue?style=for-the-badge)](https://ava-agent.github.io/ai-tools/)
+[![AI Tools](https://img.shields.io/badge/AI_Tools-Selection_Guide-blue?style=for-the-badge)](https://aitools.rxcloud.group)
 [![Projects](https://img.shields.io/badge/Projects-20+-green?style=for-the-badge)](#-agent-applications)
 
 </div>
@@ -22,7 +22,7 @@ Every agent ships with a live demo.
 
 | Project | Description | Link |
 |:---|:---|:---:|
-| [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ Tools SWOT Analysis | [Website](https://ava-agent.github.io/ai-tools/) |
+| [AI Tools](https://github.com/ava-agent/ai-tools) | AI Dev Tools Selection Guide, 30+ Tools SWOT Analysis | [Website](https://aitools.rxcloud.group) |
 | [Trip Agent](https://github.com/ava-agent/trip-agent) | Multi-Agent Travel Planner | [Demo](https://trip.rxcloud.group) |
 | [Trip AVA](https://github.com/ava-agent/trip-ava) | AI Digital Human Travel Guide (**Hackathon Bronze**) | [GitHub](https://github.com/ava-agent/trip-ava) |
 
